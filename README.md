@@ -1,1 +1,1 @@
-This is my first problem set for CS 61 at Harvard. The test code and base_malloc.c were part of the distribution code.
+This is my first problem set for CS 61 at Harvard. The test code, base_malloc.c, and parts of m61.h were part of the distribution code.
